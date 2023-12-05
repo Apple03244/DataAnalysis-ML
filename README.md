@@ -1,2 +1,18 @@
 # DataAnalysis-ML
-DataAnalysis with ML%DL
+DataAnalysis with ML&DL
+
+## My_Studygroup
+- 1. 기간 : 2023.09 ~ 2023.11
+- 2. 설명 : 데이터 분석 스터디 그룹 활동 모음
+- 3. 상태 : 완료
+
+## 메가IT(산대특)
+- 1. 기간 : 2023.06 ~ 2023.11
+- 2. 설명 : 메가IT 산업대응특강 수업
+- 3. 상태 : 완료(이수)
+
+## 빅데이터분석기사
+- 1. 기간 : 2023.06 ~ 2023.12
+- 2. 설명 : 빅데이터분석기사 실기 시험 준비
+- 3. 참고 사이트 : https://www.datamanim.com/intro.html
+- 4. 상태 : 완료(결과 : 미정)
