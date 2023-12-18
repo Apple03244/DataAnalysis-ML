@@ -1,6 +1,11 @@
 # DataAnalysis-ML
 DataAnalysis with ML&DL
 
+## Hands On
+- 1. 기간 : 2023.12.01~
+  2. 설명 : `Hands on` 교재 공부 정리
+  3. 상태 : 진행 중 
+
 ## My_Studygroup
 - 1. 기간 : 2023.09 ~ 2023.11
 - 2. 설명 : 데이터 분석 스터디 그룹 활동 모음
