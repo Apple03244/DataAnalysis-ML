@@ -20,4 +20,4 @@ DataAnalysis with ML&DL
 - 1. 기간 : 2023.06 ~ 2023.12
 - 2. 설명 : 빅데이터분석기사 실기 시험 준비
 - 3. 참고 사이트 : https://www.datamanim.com/intro.html
-- 4. 상태 : 완료(결과 : 미정)
+- 4. 상태 : 완료(결과 : 취득)
